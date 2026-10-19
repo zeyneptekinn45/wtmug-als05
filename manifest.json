@@ -1,0 +1,26 @@
+{
+  "name": "MarketGo — Barkod Okuyucu",
+  "short_name": "MarketGo",
+  "description": "Market ürünlerinin barkodunu okut, fiyatı anında gör.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f8",
+  "theme_color": "#0a7d4f",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iIzBhN2Q0ZiIgcng9IjI4Ii8+PHRleHQgeD0iOTYiIHk9IjEyMCIgZm9udC1zaXplPSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+8J+asjwvdGV4dD48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzBhN2Q0ZiIgcng9Ijc2Ii8+PHRleHQgeD0iMjU2IiB5PSIzMjAiIGZvbnQtc2l6ZT0iMjQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7wn5qyPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

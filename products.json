@@ -1,0 +1,50 @@
+[
+  {
+    "barcode": "8690000000011",
+    "name": "Tam Yağlı Süt",
+    "brand": "Sütaş",
+    "category": "Gıda",
+    "price": 32.50,
+    "quantity": "1 Litre"
+  },
+  {
+    "barcode": "8690000000028",
+    "name": "Bulaşık Deterjanı Limon",
+    "brand": "Fairy",
+    "category": "Temizlik",
+    "price": 89.90,
+    "quantity": "1350 ml"
+  },
+  {
+    "barcode": "8690000000035",
+    "name": "Şampuan Kepek Karşıtı",
+    "brand": "Head & Shoulders",
+    "category": "Kozmetik",
+    "price": 74.75,
+    "quantity": "500 ml"
+  },
+  {
+    "barcode": "8690000000042",
+    "name": "Çikolatalı Gofret",
+    "brand": "Ülker",
+    "category": "Gıda",
+    "price": 12.00,
+    "quantity": "36 g"
+  },
+  {
+    "barcode": "8690000000059",
+    "name": "Diş Macunu Ferah",
+    "brand": "Colgate",
+    "category": "Kozmetik",
+    "price": 45.30,
+    "quantity": "75 ml"
+  },
+  {
+    "barcode": "8690000000066",
+    "name": "Kağıt Havlu 6'lı",
+    "brand": "Solo",
+    "category": "Temizlik",
+    "price": 98.40,
+    "quantity": "6 Adet"
+  }
+]
